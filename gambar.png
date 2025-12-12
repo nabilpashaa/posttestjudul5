@@ -1,0 +1,4 @@
+T0JRSFUKUGVzYW4gQXNsaTogSHVqYW4gTWVuZ2d1bmFrYW4gQ2Flc2FyIENpcGhlciwgUGVyZ2Vz
+ZXJhbiA3Cg==
+
+Kalimat di atas berasal dari encrypt.txt yang merupakan hasil encode menggunakan caesar chiper sebanyak 7 shift, kemudian menggunakan perintah bash64
